@@ -3,7 +3,8 @@ This homework will show the results of the code from the Pychain ledger into the
 
 ## Streamlit Images
 ### Dropdown
-![Dropdown.PNG]
+![hOMEWORK](./Dropdown.PNG)
 
 ### Validation
-![
+![hOMEWORK](./Validate.PNG)
+
